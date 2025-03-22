@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nurbol сайты</title>
+    <style>
+        body { 
+            text-align: center; 
+            font-family: Arial, sans-serif; 
+            background-color: #f4f4f4;
+        }
+        h1 { color: #ff5733; }
+        p { font-size: 20px; }
+        button {
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <h1>Сәлем, бұл Nurbol сайты!</h1>
+    <p>Мында ешқандай пайда жоқ, бірақ сен кіріп қойдың :)</p>
+    <button onclick="alert('Клик жасадың! Енді байып кетесің 😂')">Бай болу үшін бас</button>
+</body>
+</html>
